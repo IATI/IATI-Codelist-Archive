@@ -1,0 +1,12 @@
+<codelist>
+    <label>File Format</label>
+    <description>File format of published documents</description>
+    <name>FileFormat</name>
+    <authority>IATI</authority>
+    <source>
+        <link href="http://www.iana.org/assignments/media-types/text" title="IANA text types"/>
+    </source>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

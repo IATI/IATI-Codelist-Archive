@@ -1,0 +1,14 @@
+<codelist name="ResultType" date-last-modified="2012-10-04T12:07:36Z" version="1.0" xml:lang="fr">
+    <ResultType>
+        <code>1</code>
+        <name>Extrant</name>
+    </ResultType>
+    <ResultType>
+        <code>2</code>
+        <name>Effet</name>
+    </ResultType>
+    <ResultType>
+        <code>3</code>
+        <name>Impact</name>
+    </ResultType>
+</codelist>

@@ -1,0 +1,38 @@
+<codelist name="FileFormat" date-last-modified="2012-10-04T11:53:37Z" version="1.0" xml:lang="fr">
+    <FileFormat>
+        <code>application/msword</code>
+        <name>Microsoft Word</name>
+    </FileFormat>
+    <FileFormat>
+        <code>application/pdf</code>
+        <name>PDF</name>
+    </FileFormat>
+    <FileFormat>
+        <code>application/rtf</code>
+        <name>RTF</name>
+    </FileFormat>
+    <FileFormat>
+        <code>application/vnd.ms-excel</code>
+        <name>Microsoft Excel</name>
+    </FileFormat>
+    <FileFormat>
+        <code>application/vnd.ms-powerpoint</code>
+        <name>Microsoft Powerpoint</name>
+    </FileFormat>
+    <FileFormat>
+        <code>text/csv</code>
+        <name>CSV</name>
+    </FileFormat>
+    <FileFormat>
+        <code>text/html</code>
+        <name>HTML</name>
+    </FileFormat>
+    <FileFormat>
+        <code>text/plain</code>
+        <name>Texte</name>
+    </FileFormat>
+    <FileFormat>
+        <code>text/xml</code>
+        <name>XML</name>
+    </FileFormat>
+</codelist>

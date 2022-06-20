@@ -1,0 +1,1 @@
+{ "label" : "Tied Status", "description" : null, "name" : "TiedStatus", "source" : { "authority" : "IATI", "link" : { "href" : "http://www.oecd.org/dataoecd/56/14/39186046.pdf", "title" : "See PDF p10 36-38  for categories" } }, "version" : { "id" : "1.0", "version-date" : "2011-02-17", "iati-version" : "1.0" } }

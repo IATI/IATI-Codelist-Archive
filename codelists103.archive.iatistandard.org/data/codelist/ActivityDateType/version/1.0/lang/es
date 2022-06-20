@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt;
+              <a href="/data/codelist">Codelists</a> &gt;
+              <span>ActivityDateType</span> |
+              <a href="/data/codelist/ActivityDateType/metadata">Metadata</a> |
+              <a href="/data/codelist/ActivityDateType/version/1.0/lang/es.xml">xml</a>  |
+              <a href="/data/codelist/ActivityDateType/version/1.0/lang/es.json">json</a>  |
+              <a href="/data/codelist/ActivityDateType/version/1.0/lang/es.csv">csv</a>
+            </div>
+            <div>
+                <h3>ActivityDateType 1.0 es</h3>
+                <table border="1" class="sortable">
+                    <thead>
+                        <tr>
+                            <th>code</th>
+                            <th>name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>end-actual</td>
+                            <td>La fecha de finalización real, como la fecha del último desembolso</td>
+                        </tr>
+                        <tr>
+                            <td>end-planned</td>
+                            <td>La fecha de finalización prevista según consta en la documentación del proyecto</td>
+                        </tr>
+                        <tr>
+                            <td>start-actual</td>
+                            <td>etc via Google Translate</td>
+                        </tr>
+                        <tr>
+                            <td>start-planned</td>
+                            <td>The planned start date as recorded in project documentation. Can be date of signature of activity agreement or approval by relevant body</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

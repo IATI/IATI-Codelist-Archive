@@ -1,0 +1,1 @@
+{ "name" : "BudgetIdentifier", "label" : "Budget Identifier ", "description" : "IATI Functional and Administrative Common Code : One of several possible Budget Identifier Vocabularies", "authority" : "IATI", "adherence" : "full", "version" : { "id" : "1.0", "iati-version" : "1.03" } }

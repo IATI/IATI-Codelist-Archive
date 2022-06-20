@@ -1,0 +1,13 @@
+<codelist>
+    <label>Condition Type</label>
+    <description/>
+    <name>ConditionType</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+    <version id="1.01">
+        <iati-version>1.03</iati-version>
+        <description>added 3  Fuiduciary</description>
+    </version>
+</codelist>

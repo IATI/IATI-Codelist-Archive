@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt;
+              <a href="/data/codelist">Codelists</a> &gt;
+              <span>BudgetIdentifierVocabulary</span> |
+              <a href="/data/codelist/BudgetIdentifierVocabulary/metadata">Metadata</a> |
+              <a href="/data/codelist/BudgetIdentifierVocabulary/version/1.0/lang/en.xml">xml</a>  |
+              <a href="/data/codelist/BudgetIdentifierVocabulary/version/1.0/lang/en.json">json</a>  |
+              <a href="/data/codelist/BudgetIdentifierVocabulary/version/1.0/lang/en.csv">csv</a>
+            </div>
+            <div>
+                <h3>BudgetIdentifierVocabulary 1.0 en</h3>
+                <table border="1" class="sortable">
+                    <thead>
+                        <tr>
+                            <th>code</th>
+                            <th>name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>IATI</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Country Chart of Accounts</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Other Country System</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Reporting Organisation</td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Other</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,1 @@
+{ "label" : "Loan Repayment Type", "description" : "used in additional CRS elements", "name" : "LoanRepaymentType", "authority" : "IATI", "version" : { "id" : "1.0", "iati-version" : "1.03" } }

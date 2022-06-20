@@ -1,0 +1,9 @@
+<codelist>
+    <label>Organisation Identifier</label>
+    <name>OrganisationIdentifier</name>
+    <description>This list is composed of the three separate lists on the original IATI site</description>
+    <derived/>
+    <version id="1.1">
+        <description>DAC category codes added</description>
+    </version>
+</codelist>

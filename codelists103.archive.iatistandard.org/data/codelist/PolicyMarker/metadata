@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/PolicyMarker">PolicyMarker</a> &gt; <span>metadata</span><a href="/data/codelist/PolicyMarker/metadata.xml">xml</a> |
+              <a href="/data/codelist/PolicyMarker/metadata.json">json</a> |
+              <a href="/data/codelist/PolicyMarker/rules">Rules</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th>Name</th>
+                        <td>PolicyMarker</td>
+                    </tr>
+                    <tr>
+                        <th>Label</th>
+                        <td>Policy Marker</td>
+                    </tr>
+                    <tr>
+                        <th>Description</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>Discussion</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>Versions</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Version</th>
+                                    <th>IATI Version</th>
+                                    <th>Date</th>
+                                    <th>Lang</th>
+                                    <th>Status</th>
+                                    <th>Description</th>
+                                </tr>
+                                <tr>
+                                    <th>1.0</th>
+                                    <th>1.0</th>
+                                    <td>02 Mar 2012</td>
+                                    <td><a href="/data/codelist/PolicyMarker/version/1.0/lang/en">en</a>
+                                    </td>
+                                    <td>Current</td>
+                                    <td></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

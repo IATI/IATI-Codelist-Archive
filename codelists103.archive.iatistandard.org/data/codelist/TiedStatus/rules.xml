@@ -1,0 +1,18 @@
+<result codelist="TiedStatus">
+    <rule id="standard-1.0:26">
+        <path>/default-tied-status/@code</path>
+        <codelist>TiedStatus</codelist>
+    </rule>
+    <rule id="standard-1.0:78">
+        <path>/transaction/tied-status/@code</path>
+        <codelist>TiedStatus</codelist>
+    </rule>
+    <rule id="standard-1.02:26">
+        <path>/default-tied-status/@code</path>
+        <codelist>TiedStatus</codelist>
+    </rule>
+    <rule id="standard-1.02:78">
+        <path>/transaction/tied-status/@code</path>
+        <codelist>TiedStatus</codelist>
+    </rule>
+</result>

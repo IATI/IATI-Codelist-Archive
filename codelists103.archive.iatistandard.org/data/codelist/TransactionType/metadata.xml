@@ -1,0 +1,11 @@
+<codelist>
+    <label>Transaction Type</label>
+    <description/>
+    <name>TransactionType</name>
+    <authority>IATI</authority>
+    <description>Added 3 new options to the codelist: QP - Purchase of Equity, QS - Sale of
+                Equity ,CG - Credit Guarantee </description>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

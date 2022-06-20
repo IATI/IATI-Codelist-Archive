@@ -1,0 +1,18 @@
+<result codelist="OrganisationType">
+    <rule id="standard-1.0:44">
+        <path>/participating-org/@type</path>
+        <codelist>OrganisationType</codelist>
+    </rule>
+    <rule id="standard-1.0:62">
+        <path>/reporting-org/@type</path>
+        <codelist>OrganisationType</codelist>
+    </rule>
+    <rule id="standard-1.02:44">
+        <path>/participating-org/@type</path>
+        <codelist>OrganisationType</codelist>
+    </rule>
+    <rule id="standard-1.02:62">
+        <path>/reporting-org/@type</path>
+        <codelist>OrganisationType</codelist>
+    </rule>
+</result>

@@ -1,0 +1,6 @@
+<result codelist="RelatedActivityType">
+    <rule id="standard-1.0:60">
+        <path>/related-activity/@type</path>
+        <codelist>RelatedActivityType</codelist>
+    </rule>
+</result>

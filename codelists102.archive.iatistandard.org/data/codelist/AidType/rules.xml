@@ -1,0 +1,10 @@
+<result codelist="AidType">
+    <rule id="standard-1.0:23">
+        <path>/default-aid-type/@code</path>
+        <codelist>AidType</codelist>
+    </rule>
+    <rule id="standard-1.0:70">
+        <path>/transaction/aid-type/@code</path>
+        <codelist>AidType</codelist>
+    </rule>
+</result>

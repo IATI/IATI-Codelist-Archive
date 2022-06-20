@@ -1,0 +1,8 @@
+<result codelist="SectorCategory">
+    <rule id="aidview:6">
+        <path>/sector/@code</path>
+        <pre>$this/../@vocabulary="DAC-3"</pre>
+        <codelist>SectorCategory</codelist>
+        <name>SectorCategory</name>
+    </rule>
+</result>

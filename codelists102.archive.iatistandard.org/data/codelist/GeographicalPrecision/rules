@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AidInfo IATI Data viewer - V2 dev</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/GeographicalPrecision">GeographicalPrecision</a> &gt; <span>rules</span><a href="/data/codelist/GeographicalPrecision/rules.xml">xml</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.0">standard-1.0</a>
+                        </th>
+                        <td>/location/coordinates/@precision</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

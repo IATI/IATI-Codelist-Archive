@@ -1,0 +1,18 @@
+<codelist>
+    <label>Currency</label>
+    <description>ISO 4217 Currency used for all transactions and budgets</description>
+    <name>Currency</name>
+    <source>
+        <authority>ISO</authority>
+        <link href="http://www.iso.org/" title="International Organisation for Standardization"/>
+        <link href="http://www.iso.org/iso/home/standards/currency_codes.htm" title="Description"/>
+        <link href="http://en.wikipedia.org/wiki/ISO_4217" title="Wikipedia"/>
+    </source>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+    <version id="1.01">
+        <iati-version>1.03</iati-version>
+        <description>added SSP South Sudanese Pound</description>
+    </version>
+</codelist>

@@ -1,0 +1,1 @@
+{ "name" : "LoanRepaymentType", "date-last-modifed" : "2013-05-10T22:30:07.092Z", "version" : "1.0", "xml:lang" : "en", "LoanRepaymentType" : [{ "code" : "1", "name" : "Equal Principal Payments (EPP)" }, { "code" : "2", "name" : "Annuity" }, { "code" : "3", "name" : "Lump sum" }, { "code" : "5", "name" : "Other" }] }

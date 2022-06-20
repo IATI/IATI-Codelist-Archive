@@ -1,0 +1,9 @@
+<codelist>
+    <label>Transaction Type</label>
+    <description/>
+    <name>TransactionType</name>
+    <version id="1.01">
+        <description>Added 3 new options to the codelist: QP - Purchase of Equity, QS - Sale of Equity ,CG - Credit Guarantee
+            </description>
+    </version>
+</codelist>

@@ -1,0 +1,6 @@
+<result codelist="ConditionType">
+    <rule id="standard-1.0:22">
+        <path>/conditions/condition/@type</path>
+        <codelist>ConditionType</codelist>
+    </rule>
+</result>

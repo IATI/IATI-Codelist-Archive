@@ -1,0 +1,86 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/AidType">AidType</a> &gt; <span>metadata</span><a href="/data/codelist/AidType/metadata.xml">xml</a> |
+              <a href="/data/codelist/AidType/metadata.json">json</a> |
+              <a href="/data/codelist/AidType/rules">Rules</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th>Name</th>
+                        <td>AidType</td>
+                    </tr>
+                    <tr>
+                        <th>Label</th>
+                        <td>AidType</td>
+                    </tr>
+                    <tr>
+                        <th>Description</th>
+                        <td>DAC/CRS classification used to distinguish aid modalities. </td>
+                    </tr>
+                    <tr>
+                        <th>Source</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Authority</th>
+                                    <td>DAC</td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org">OECD web site</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org/dac/stats/dacandcrscodelists.htm">Overview</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org/dac/stats/codelist30012013.xlsx">See Sheet 'Type of Aid'</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Discussion</th>
+                        <td>In DAC parlance, Type is the high level category e.g. A "Budget Support" whilst
+            the lower level is Sub-type e.g. A01 "General Budget Support". </td>
+                    </tr>
+                    <tr>
+                        <th>Versions</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Version</th>
+                                    <th>IATI Version</th>
+                                    <th>Date</th>
+                                    <th>Lang</th>
+                                    <th>Status</th>
+                                    <th>Description</th>
+                                </tr>
+                                <tr>
+                                    <th>1.0</th>
+                                    <th>1.0</th>
+                                    <td>02 Mar 2012</td>
+                                    <td><a href="/data/codelist/AidType/version/1.0/lang/en">en</a>
+                                    </td>
+                                    <td>Current</td>
+                                    <td></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

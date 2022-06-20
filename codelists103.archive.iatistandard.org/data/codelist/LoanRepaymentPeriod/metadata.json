@@ -1,0 +1,1 @@
+{ "label" : "Loan Repayemnt Period", "description" : "CRS Loan Repayment No of Payments ", "name" : "LoanRepaymentPeriod", "authority" : "IATI", "version" : { "id" : "1.0", "iati-version" : "1.03" } }

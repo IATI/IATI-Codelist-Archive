@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/Country">Country</a> &gt; <span>metadata</span><a href="/data/codelist/Country/metadata.xml">xml</a> |
+              <a href="/data/codelist/Country/metadata.json">json</a> |
+              <a href="/data/codelist/Country/rules">Rules</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th>Name</th>
+                        <td>Country</td>
+                    </tr>
+                    <tr>
+                        <th>Label</th>
+                        <td>Country</td>
+                    </tr>
+                    <tr>
+                        <th>Description</th>
+                        <td>ISO 3166 alpha 2 Country codes</td>
+                    </tr>
+                    <tr>
+                        <th>Source</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Authority</th>
+                                    <td>ISO</td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.iso.org/">International Organisation for Standardization</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39719">ISO 3166-1:2006</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">Wikipedia</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Discussion</th>
+                        <td>Names are the English short country names</td>
+                    </tr>
+                    <tr>
+                        <th>Versions</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Version</th>
+                                    <th>IATI Version</th>
+                                    <th>Date</th>
+                                    <th>Lang</th>
+                                    <th>Status</th>
+                                    <th>Description</th>
+                                </tr>
+                                <tr>
+                                    <th>1.0</th>
+                                    <th>1.0</th>
+                                    <td>02 Mar 2012</td>
+                                    <td><a href="/data/codelist/Country/version/1.0/lang/en">en</a>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <th>1.01</th>
+                                    <th>1.02</th>
+                                    <td>20 Apr 2012</td>
+                                    <td><a href="/data/codelist/Country/version/1.01/lang/en">en</a>
+                                    </td>
+                                    <td></td>
+                                    <td>SS South Sudan and AN Netherland Antilles added</td>
+                                </tr>
+                                <tr>
+                                    <th>1.02</th>
+                                    <th>1.03</th>
+                                    <td>25 Mar 2013</td>
+                                    <td><a href="/data/codelist/Country/version/1.02/lang/en">en</a>
+                                    </td>
+                                    <td>Current</td>
+                                    <td>AN Netherland Antilles removed 
+                <a href="http://www.iso.org/iso/home/news_index/news_archive/news.htm?refid=Ref1383">ISO news</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

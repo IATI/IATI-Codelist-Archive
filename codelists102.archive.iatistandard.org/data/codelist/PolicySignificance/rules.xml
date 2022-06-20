@@ -1,0 +1,6 @@
+<result codelist="PolicySignificance">
+    <rule id="standard-1.0:51">
+        <path>/policy-marker/@significance</path>
+        <codelist>PolicySignificance</codelist>
+    </rule>
+</result>

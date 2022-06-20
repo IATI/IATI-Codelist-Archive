@@ -1,0 +1,14 @@
+<codelist>
+    <label>Policy Significance</label>
+    <description/>
+    <name>PolicySignificance</name>
+    <source>
+        <authority>DAC</authority>
+        <link href="http://www.oecd.org" title="OECD web site"/>
+        <link href="http://www.oecd.org/dataoecd/56/14/39186046.pdf" title="See PDF p10 (20-23 and 28-31) right-hand column"/>
+    </source>
+    <version id="1.0">
+        <version-date>2011-02-17</version-date>
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

@@ -1,0 +1,27 @@
+<codelist name="ActivityStatus" date-last-modified="2012-10-04T11:18:08.457Z" version="1.0" xml:lang="fr">
+    <ActivityStatus>
+        <code>1</code>
+        <name>Planification</name>
+        <language>fr</language>
+    </ActivityStatus>
+    <ActivityStatus>
+        <code>2</code>
+        <name>Actif</name>
+        <language>fr</language>
+    </ActivityStatus>
+    <ActivityStatus>
+        <code>3</code>
+        <name>Finalisation</name>
+        <language>fr</language>
+    </ActivityStatus>
+    <ActivityStatus>
+        <code>4</code>
+        <name>Fermé</name>
+        <language>fr</language>
+    </ActivityStatus>
+    <ActivityStatus>
+        <code>5</code>
+        <name>Annulé</name>
+        <language>fr</language>
+    </ActivityStatus>
+</codelist>

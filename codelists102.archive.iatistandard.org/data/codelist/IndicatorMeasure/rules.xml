@@ -1,0 +1,6 @@
+<result codelist="IndicatorMeasure">
+    <rule id="standard-1.0:64">
+        <path>/result/indicator/@measure</path>
+        <codelist>IndicatorMeasure</codelist>
+    </rule>
+</result>

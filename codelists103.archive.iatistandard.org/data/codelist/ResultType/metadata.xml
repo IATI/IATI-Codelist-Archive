@@ -1,0 +1,9 @@
+<codelist>
+    <label>Result Type</label>
+    <description/>
+    <name>ResultType</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

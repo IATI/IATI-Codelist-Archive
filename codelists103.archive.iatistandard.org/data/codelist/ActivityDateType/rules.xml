@@ -1,0 +1,10 @@
+<result codelist="ActivityDateType">
+    <rule id="standard-1.0:8">
+        <path>/activity-date/@type</path>
+        <codelist>ActivityDateType</codelist>
+    </rule>
+    <rule id="standard-1.02:8">
+        <path>/activity-date/@type</path>
+        <codelist>ActivityDateType</codelist>
+    </rule>
+</result>

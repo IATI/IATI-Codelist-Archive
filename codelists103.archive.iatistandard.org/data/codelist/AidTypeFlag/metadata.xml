@@ -1,0 +1,14 @@
+<codelist>
+    <name>AidTypeFlag</name>
+    <label>Aid Type Flag</label>
+    <description/>
+    <source>
+        <authority>IATI</authority>
+    </source>
+    <adherence>full</adherence>
+    <discussion>used in CRS elements</discussion>
+    <version id="1.0">
+        <version-date>2013-05-14</version-date>
+        <iati-version>1.03</iati-version>
+    </version>
+</codelist>

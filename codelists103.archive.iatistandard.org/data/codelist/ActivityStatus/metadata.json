@@ -1,0 +1,1 @@
+{ "name" : "ActivityStatus", "label" : "Activity Status", "description" : "Lifecycle status of the activity from pipeline to completion", "authority" : "IATI", "adherence" : "full", "version" : { "id" : "1.0", "iati-version" : "1.0" } }

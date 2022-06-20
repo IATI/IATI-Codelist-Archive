@@ -1,0 +1,9 @@
+<codelist>
+    <label>Value Type</label>
+    <description>A derived  enlarged version of TransactionType to include PD (planned Disbursements)  and TB (Budget) </description>
+    <name>ValueType</name>
+    <derived/>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

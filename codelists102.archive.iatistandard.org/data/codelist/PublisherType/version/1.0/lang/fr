@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AidInfo IATI Data viewer - V2 dev</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt;
+              <a href="/data/codelist">Codelists</a> &gt;
+              <span>PublisherType</span> |
+              <a href="/data/codelist/PublisherType/metadata">Metadata</a> |
+              <a href="/data/codelist/PublisherType/version/1.0/lang/fr.xml">xml</a>  |
+              <a href="/data/codelist/PublisherType/version/1.0/lang/fr.csv">csv</a>
+            </div>
+            <div>
+                <h3>PublisherType 1.0 fr</h3>
+                <table border="1" class="sortable">
+                    <thead>
+                        <tr>
+                            <th>code</th>
+                            <th>name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Donateur</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Récipiendaire</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>Agrégateur</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

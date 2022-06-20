@@ -1,0 +1,9 @@
+<codelist>
+    <label>Contact Type</label>
+    <description>Type of Contact</description>
+    <name>ContactType</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.03</iati-version>
+    </version>
+</codelist>

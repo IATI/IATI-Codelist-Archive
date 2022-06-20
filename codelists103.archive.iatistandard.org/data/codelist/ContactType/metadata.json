@@ -1,0 +1,1 @@
+{ "label" : "Contact Type", "description" : "Type of Contact", "name" : "ContactType", "authority" : "IATI", "version" : { "id" : "1.0", "iati-version" : "1.03" } }

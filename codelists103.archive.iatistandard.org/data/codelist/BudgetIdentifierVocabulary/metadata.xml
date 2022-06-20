@@ -1,0 +1,10 @@
+<codelist>
+    <name>BudgetIdentifierVocabulary</name>
+    <label>Budget Identifier Vocabulary</label>
+    <description/>
+    <authority>IATI</authority>
+    <adherence>full</adherence>
+    <version id="1.0">
+        <iati-version>1.03</iati-version>
+    </version>
+</codelist>

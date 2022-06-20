@@ -1,0 +1,10 @@
+<codelist>
+    <label>Region Vocabulary</label>
+    <description/>
+    <name>RegionVocabulary</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.03</iati-version>
+    </version>
+    <discussion>see http://support.iatistandard.org/entries/21180287-Countries-and-Regions </discussion>
+</codelist>

@@ -1,0 +1,26 @@
+<codelist>
+    <name>Country</name>
+    <label>Country</label>
+    <description>ISO 3166 alpha 2 Country codes</description>
+    <source>
+        <authority>ISO</authority>
+        <link href="http://www.iso.org/" title="International Organisation for Standardization"/>
+        <link href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39719" title="ISO 3166-1:2006"/>
+        <link href="http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2" title="Wikipedia"/>
+    </source>
+    <adherence>Names are in upper case whereas the ISO names are mixed case. </adherence>
+    <discussion>Names are the English short country names</discussion>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+    <version id="1.01">
+        <iati-version>1.02</iati-version>
+        <description>SS South Sudan and AN Netherland Antilles added</description>
+    </version>
+    <version id="1.02">
+        <iati-version>1.03</iati-version>
+        <description>AN Netherland Antilles removed 
+                <a href="http://www.iso.org/iso/home/news_index/news_archive/news.htm?refid=Ref1383">ISO news</a>
+        </description>
+    </version>
+</codelist>

@@ -1,0 +1,6 @@
+<result codelist="DisbursementChannel">
+    <rule id="standard-1.0:71">
+        <path>/transaction/disbursement-channel/@code</path>
+        <codelist>DisbursementChannel</codelist>
+    </rule>
+</result>

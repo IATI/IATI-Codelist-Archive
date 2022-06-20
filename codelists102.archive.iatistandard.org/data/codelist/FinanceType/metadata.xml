@@ -1,0 +1,5 @@
+<codelist>
+    <label>Finance Type</label>
+    <description>DAC/CRS transaction classification distinguishing between grants, loans, etc</description>
+    <name>FinanceType</name>
+</codelist>

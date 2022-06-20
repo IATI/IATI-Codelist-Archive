@@ -1,0 +1,9 @@
+<codelist>
+    <label>Organisation Type</label>
+    <description/>
+    <name>OrganisationType</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

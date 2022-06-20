@@ -1,0 +1,6 @@
+<result codelist="PolicyMarker">
+    <rule id="standard-1.0:50">
+        <path>/policy-marker/@code</path>
+        <codelist>PolicyMarker</codelist>
+    </rule>
+</result>

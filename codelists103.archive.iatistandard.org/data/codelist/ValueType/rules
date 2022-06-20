@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/ValueType">ValueType</a> &gt; <span>rules</span><a href="/data/codelist/ValueType/rules.xml">xml</a>
+            </div>
+            <div>
+                <table border="1"></table>
+            </div>
+        </div>
+    </body>
+</html>

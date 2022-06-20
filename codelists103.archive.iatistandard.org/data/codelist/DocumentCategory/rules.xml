@@ -1,0 +1,10 @@
+<result codelist="DocumentCategory">
+    <rule id="standard-1.0:30">
+        <path>/document-link/category/@code</path>
+        <codelist>DocumentCategory</codelist>
+    </rule>
+    <rule id="standard-1.02:30">
+        <path>/document-link/category/@code</path>
+        <codelist>DocumentCategory</codelist>
+    </rule>
+</result>

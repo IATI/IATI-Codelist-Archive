@@ -1,0 +1,10 @@
+<codelist>
+    <name>ActivityScope</name>
+    <label>Activity Scope</label>
+    <description>Geographic scope of activity</description>
+    <authority>IATI</authority>
+    <adherence>full</adherence>
+    <version id="1.0">
+        <iati-version>1.03</iati-version>
+    </version>
+</codelist>

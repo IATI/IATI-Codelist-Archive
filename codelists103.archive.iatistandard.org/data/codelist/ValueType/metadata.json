@@ -1,0 +1,1 @@
+{ "label" : "Value Type", "description" : "A derived  enlarged version of TransactionType to include PD (planned Disbursements)  and TB (Budget) ", "name" : "ValueType", "derived" : null, "version" : { "id" : "1.0", "iati-version" : "1.0" } }

@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/Currency">Currency</a> &gt; <span>rules</span><a href="/data/codelist/Currency/rules.xml">xml</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.0">standard-1.0</a>
+                        </th>
+                        <td>/@default-currency</td>
+                    </tr>
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.0">standard-1.0</a>
+                        </th>
+                        <td>/budget/value/@currency</td>
+                    </tr>
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.0">standard-1.0</a>
+                        </th>
+                        <td>/planned-disbursement/value/@currency</td>
+                    </tr>
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.0">standard-1.0</a>
+                        </th>
+                        <td>/transaction/value/@currency</td>
+                    </tr>
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.02">standard-1.02</a>
+                        </th>
+                        <td>/@default-currency</td>
+                    </tr>
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.02">standard-1.02</a>
+                        </th>
+                        <td>/budget/value/@currency</td>
+                    </tr>
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.02">standard-1.02</a>
+                        </th>
+                        <td>/planned-disbursement/value/@currency</td>
+                    </tr>
+                    <tr>
+                        <th><a href="/data/ruleset/standard-1.02">standard-1.02</a>
+                        </th>
+                        <td>/transaction/value/@currency</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

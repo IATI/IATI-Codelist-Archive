@@ -1,0 +1,7 @@
+<codelist>
+    <name>ActivityStatus</name>
+    <label>Activity Status</label>
+    <description>Lifecycle status of the activity from pipeline to completion</description>
+    <authority>IATI</authority>
+    <adherence>full</adherence>
+</codelist>

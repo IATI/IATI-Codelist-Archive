@@ -1,0 +1,42 @@
+<codelist name="OrganisationType" date-last-modified="2012-10-04T11:57:01Z" version="1.0" xml:lang="fr">
+    <OrganisationType>
+        <code>10</code>
+        <name>Gouvernement</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>15</code>
+        <name>Autre secteur public</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>21</code>
+        <name>ONG internationale</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>22</code>
+        <name>ONG nationale</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>23</code>
+        <name>ONG regionale</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>30</code>
+        <name>Partenariat public-privé</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>40</code>
+        <name>Multilatéral</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>60</code>
+        <name>Fondation</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>70</code>
+        <name>Secteur privé</name>
+    </OrganisationType>
+    <OrganisationType>
+        <code>80</code>
+        <name>Universitaire, formation et recherche</name>
+    </OrganisationType>
+</codelist>

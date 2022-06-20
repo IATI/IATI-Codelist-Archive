@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AidInfo IATI Data viewer - V2 dev</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/OrganisationIdentifier">OrganisationIdentifier</a> &gt; <span>metadata</span><a href="/data/codelist/OrganisationIdentifier/metadata.xml">xml</a> |
+              <a href="/data/codelist/OrganisationIdentifier/rules">Rules</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th>Name</th>
+                        <td>OrganisationIdentifier</td>
+                    </tr>
+                    <tr>
+                        <th>Label</th>
+                        <td>Organisation Identifier</td>
+                    </tr>
+                    <tr>
+                        <th>Description</th>
+                        <td>This list is composed of the three separate lists on the original IATI site</td>
+                    </tr>
+                    <tr>
+                        <th>IATI Version</th>
+                        <td>1</td>
+                    </tr>
+                    <tr>
+                        <th>Discussion</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>Versions</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Version</th>
+                                    <th>Date</th>
+                                    <th>Lang</th>
+                                    <th>Status</th>
+                                    <th>Description</th>
+                                </tr>
+                                <tr>
+                                    <th>1.0</th>
+                                    <td>02 Mar 2012</td>
+                                    <td><a href="/data/codelist/OrganisationIdentifier/version/1.0/lang/en">en</a>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <th>1.1</th>
+                                    <td>01 Oct 2012</td>
+                                    <td><a href="/data/codelist/OrganisationIdentifier/version/1.1/lang/en">en</a>
+                                    </td>
+                                    <td>Current</td>
+                                    <td>DAC category codes added</td>
+                                </tr>
+                                <tr>
+                                    <th>1.2</th>
+                                    <td>29 Nov 2012</td>
+                                    <td><a href="/data/codelist/OrganisationIdentifier/version/1.2/lang/en">en</a>
+                                    </td>
+                                    <td>Draft</td>
+                                    <td></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

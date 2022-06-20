@@ -1,0 +1,16 @@
+<codelist>
+    <label>Sector Category</label>
+    <description>The categories of DAC Sector codes</description>
+    <name>SectorCategory</name>
+    <derived/>
+    <source>
+        <authority>DAC</authority>
+        <link href="http://www.oecd.org" title="OECD web site"/>
+        <link href="http://www.oecd.org/dac/stats/codelist30012013.xlsx" title="See Sheet 'Purpose code'"/>
+    </source>
+    <discussion>Derived by extraction from the de-normalised Sector code list</discussion>
+    <version id="1.0">
+        <version-date>2013-01-30</version-date>
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

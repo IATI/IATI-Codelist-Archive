@@ -1,0 +1,10 @@
+<result codelist="ActivityStatus">
+    <rule id="standard-1.0:13">
+        <path>/activity-status/@code</path>
+        <codelist>ActivityStatus</codelist>
+    </rule>
+    <rule id="standard-1.02:13">
+        <path>/activity-status/@code</path>
+        <codelist>ActivityStatus</codelist>
+    </rule>
+</result>

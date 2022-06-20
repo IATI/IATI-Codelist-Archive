@@ -1,0 +1,22 @@
+<result codelist="Sector">
+    <rule id="standard-1.0:66">
+        <path>/sector/@code</path>
+        <pre>$this/../@vocabulary="DAC"</pre>
+        <codelist>Sector</codelist>
+    </rule>
+    <rule id="standard-1.0:67">
+        <path>/sector/@code</path>
+        <pre>empty($this/../@vocabulary)</pre>
+        <codelist>Sector</codelist>
+    </rule>
+    <rule id="standard-1.02:66">
+        <path>/sector/@code</path>
+        <pre>$this/../@vocabulary="DAC"</pre>
+        <codelist>Sector</codelist>
+    </rule>
+    <rule id="standard-1.02:67">
+        <path>/sector/@code</path>
+        <pre>empty($this/../@vocabulary)</pre>
+        <codelist>Sector</codelist>
+    </rule>
+</result>

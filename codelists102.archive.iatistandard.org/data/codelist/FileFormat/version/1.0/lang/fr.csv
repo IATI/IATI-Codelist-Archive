@@ -1,0 +1,10 @@
+code,name
+application/msword,Microsoft Word
+application/pdf,PDF
+application/rtf,RTF
+application/vnd.ms-excel,Microsoft Excel
+application/vnd.ms-powerpoint,Microsoft Powerpoint
+text/csv,CSV
+text/html,HTML
+text/plain,Texte
+text/xml,XML

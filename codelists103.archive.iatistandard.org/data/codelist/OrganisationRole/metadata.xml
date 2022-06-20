@@ -1,0 +1,9 @@
+<codelist>
+    <label>Organisation Role</label>
+    <description/>
+    <name>OrganisationRole</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

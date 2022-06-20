@@ -1,0 +1,1 @@
+{ "label" : "File Format", "description" : "File format of published documents", "name" : "FileFormat", "authority" : "IATI", "source" : { "link" : { "href" : "http://www.iana.org/assignments/media-types/text", "title" : "IANA text types" } }, "version" : { "id" : "1.0", "iati-version" : "1.0" } }

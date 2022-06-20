@@ -1,0 +1,12 @@
+<codelist>
+    <label>Geographical Precision</label>
+    <description>A system for clarifying the accuracy and usage of geographical coordinates </description>
+    <name>GeographicalPrecision</name>
+    <authority>World Bank</authority>
+    <source>
+        <link href="http://worldbank.geoiq.com/files/worldbank_geocoding_manual.pdf" title="The  UCDP,  AidData,  and  World  Bank  Institute  codebook  on  geo-­‐                 referencing  World  Bank  Aid  Projects"/>
+    </source>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

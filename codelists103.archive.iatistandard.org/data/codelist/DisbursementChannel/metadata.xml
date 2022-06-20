@@ -1,0 +1,9 @@
+<codelist>
+    <label>Disbursement Channel</label>
+    <description/>
+    <name>DisbursementChannel</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

@@ -1,0 +1,10 @@
+<codelist>
+    <name>ActivityDateType</name>
+    <label>Activity Date Type</label>
+    <description>Types of date for activities</description>
+    <authority>IATI</authority>
+    <adherence>full</adherence>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

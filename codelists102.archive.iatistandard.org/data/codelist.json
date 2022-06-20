@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AidInfo IATI Data viewer - V2 dev</title>
+    </head>
+    <body>
+        <div>
+            <_signature>codelist.json</_signature> not recognised
+        <context>
+                <_isrest qs="true">yes</_isrest>
+                <_path qs="true">codelist.json</_path>
+                <_nparam>2</_nparam>
+                <_signature>codelist.json</_signature>
+                <_step>codelist.json</_step>
+                <codelist.json></codelist.json>
+                <_root>/data/</_root>
+                <start>1</start>
+                <pagesize>25</pagesize>
+                <_format>html</_format>
+                <lang>en</lang>
+                <_fullpath>/data/codelist.json</_fullpath>
+            </context>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+<codelist>
+    <label>Document Category</label>
+    <description>Categories of information included in published documents</description>
+    <name>DocumentCategory</name>
+    <version id="1.01">
+        <description>
+               Added 4 new options to the codelist: A10 - Tender, A11 - Contract, B04 - Aid Allocation Policy, B05 - Procurement Policy and Procedure 
+            </description>
+    </version>
+</codelist>

@@ -1,0 +1,10 @@
+<result codelist="ResultType">
+    <rule id="standard-1.0:63">
+        <path>/result/@type</path>
+        <codelist>ResultType</codelist>
+    </rule>
+    <rule id="standard-1.02:63">
+        <path>/result/@type</path>
+        <codelist>ResultType</codelist>
+    </rule>
+</result>

@@ -1,0 +1,10 @@
+<result codelist="GeographicalPrecision">
+    <rule id="standard-1.0:37">
+        <path>/location/coordinates/@precision</path>
+        <codelist>GeographicalPrecision</codelist>
+    </rule>
+    <rule id="standard-1.02:37">
+        <path>/location/coordinates/@precision</path>
+        <codelist>GeographicalPrecision</codelist>
+    </rule>
+</result>

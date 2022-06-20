@@ -1,0 +1,10 @@
+<result codelist="CollaborationType">
+    <rule id="standard-1.0:20">
+        <path>/collaboration-type/@code</path>
+        <codelist>CollaborationType</codelist>
+    </rule>
+    <rule id="standard-1.02:20">
+        <path>/collaboration-type/@code</path>
+        <codelist>CollaborationType</codelist>
+    </rule>
+</result>

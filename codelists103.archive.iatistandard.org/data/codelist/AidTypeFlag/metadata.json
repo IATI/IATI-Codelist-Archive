@@ -1,0 +1,1 @@
+{ "name" : "AidTypeFlag", "label" : "Aid Type Flag", "description" : null, "source" : { "authority" : "IATI" }, "adherence" : "full", "discussion" : "used in CRS elements", "version" : { "id" : "1.0", "version-date" : "2013-05-14", "iati-version" : "1.03" } }

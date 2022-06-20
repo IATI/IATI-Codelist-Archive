@@ -1,0 +1,24 @@
+<codelist>
+    <label>Flow Type</label>
+    <description>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</description>
+    <name>FlowType</name>
+    <last-checked>2013-03-20</last-checked>
+    <source>
+        <authority>DAC</authority>
+        <link href="http://www.oecd.org" title="OECD web site"/>
+        <link href="http://www.oecd.org/dac/stats/dacandcrscodelists.htm" title="Overview"/>
+        <link href="http://www.oecd.org/dac/stats/codelist30012013.xlsx" title="See Sheet 'Type of Flow'"/>
+    </source>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+        <version-date>2013-01-30</version-date>
+    </version>
+    <version id="1.01">
+        <iati-version>1.03</iati-version>
+        <version-date>2013-05-13</version-date>
+        <description>added code 40 - Non flow eg GNI </description>
+    </version>
+    <discussion>
+            see <a href="http://support.iatistandard.org/entries/22900861-Additional-entry-on-Flow-Type-Codelist">Knowledge base discussion</a>
+    </discussion>
+</codelist>

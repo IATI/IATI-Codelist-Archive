@@ -1,0 +1,99 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/Sector">Sector</a> &gt; <span>metadata</span><a href="/data/codelist/Sector/metadata.xml">xml</a> |
+              <a href="/data/codelist/Sector/metadata.json">json</a> |
+              <a href="/data/codelist/Sector/rules">Rules</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th>Name</th>
+                        <td>Sector</td>
+                    </tr>
+                    <tr>
+                        <th>Label</th>
+                        <td>Sector</td>
+                    </tr>
+                    <tr>
+                        <th>Description</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>Source</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Authority</th>
+                                    <td>DAC</td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org">OECD web site</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org/dac/stats/purposecodessectorclassification.htm">Guidance</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org/dac/stats/codelist30012013.xlsx">See Sheet 'Purpose code'</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org/dac/stats/49846172.xls">CRS Purpose Codes 2011 - older</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Discussion</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>Versions</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Version</th>
+                                    <th>IATI Version</th>
+                                    <th>Date</th>
+                                    <th>Lang</th>
+                                    <th>Status</th>
+                                    <th>Description</th>
+                                </tr>
+                                <tr>
+                                    <th>1.0</th>
+                                    <th>1.0</th>
+                                    <td>02 Mar 2012</td>
+                                    <td><a href="/data/codelist/Sector/version/1.0/lang/en">en</a>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <th>1.01</th>
+                                    <th>1.03</th>
+                                    <td>20 Mar 2013</td>
+                                    <td><a href="/data/codelist/Sector/version/1.01/lang/en">en</a>
+                                    </td>
+                                    <td>Current</td>
+                                    <td>12 codes added , 4 removed </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+<result codelist="OrganisationRole">
+    <rule id="standard-1.0:43">
+        <path>/participating-org/@role</path>
+        <codelist>OrganisationRole</codelist>
+    </rule>
+    <rule id="standard-1.02:43">
+        <path>/participating-org/@role</path>
+        <codelist>OrganisationRole</codelist>
+    </rule>
+</result>

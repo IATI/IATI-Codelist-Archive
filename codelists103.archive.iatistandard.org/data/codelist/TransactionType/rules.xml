@@ -1,0 +1,10 @@
+<result codelist="TransactionType">
+    <rule id="standard-1.0:79">
+        <path>/transaction/transaction-type/@code</path>
+        <codelist>TransactionType</codelist>
+    </rule>
+    <rule id="standard-1.02:79">
+        <path>/transaction/transaction-type/@code</path>
+        <codelist>TransactionType</codelist>
+    </rule>
+</result>

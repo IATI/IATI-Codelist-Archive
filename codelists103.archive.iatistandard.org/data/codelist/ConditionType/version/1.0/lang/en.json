@@ -1,0 +1,1 @@
+{ "name" : "ConditionType", "date-last-modified" : "2012-03-02T16:37:03.457Z", "version" : "1.0", "xml:lang" : "en", "ConditionType" : [{ "code" : "2", "name" : "Performance", "language" : "en" }, { "code" : "1", "name" : "Policy", "language" : "en" }] }

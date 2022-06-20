@@ -1,0 +1,13 @@
+<codelist>
+    <label>Tied Status</label>
+    <description/>
+    <name>TiedStatus</name>
+    <source>
+        <authority>IATI</authority>
+        <link href="http://www.oecd.org/dataoecd/56/14/39186046.pdf" title="See PDF p10 36-38  for categories"/>
+    </source>
+    <version id="1.0">
+        <version-date>2011-02-17</version-date>
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

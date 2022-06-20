@@ -1,0 +1,6 @@
+<result codelist="FileFormat">
+    <rule id="standard-1.0:29">
+        <path>/document-link/@format</path>
+        <codelist>FileFormat</codelist>
+    </rule>
+</result>

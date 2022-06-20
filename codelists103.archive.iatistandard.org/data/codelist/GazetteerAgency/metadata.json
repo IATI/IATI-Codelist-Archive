@@ -1,0 +1,1 @@
+{ "label" : "Gazetteer Agency", "description" : "An online resource that holds coordinates and descriptions of geographic locations ", "name" : "GazetteerAgency", "authority" : "IATI", "version" : [{ "id" : "1.0", "iati-version" : "1.0" }, { "id" : "1.01", "iati-version" : "1.02", "description" : "Added Open Street Map" }] }

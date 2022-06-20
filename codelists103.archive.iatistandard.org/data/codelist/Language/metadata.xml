@@ -1,0 +1,14 @@
+<codelist>
+    <label>Language</label>
+    <description>To specify the language of titles, descriptions and documents</description>
+    <name>Language</name>
+    <source>
+        <authority>ISO</authority>
+        <link href="http://www.iso.org/" title="International Organisation for Standardization"/>
+        <link href="http://www.iso.org/iso/home/standards/language_codes.htm" title="description"/>
+        <link href="http://en.wikipedia.org/wiki/ISO_639" title="Wikipedia"/>
+    </source>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

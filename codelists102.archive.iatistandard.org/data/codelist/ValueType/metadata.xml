@@ -1,0 +1,5 @@
+<codelist>
+    <label>Value Type</label>
+    <description>An enlarged version of TransactionType to include PD (planned Disbursements) and TB (Budget) </description>
+    <name>ValueType</name>
+</codelist>

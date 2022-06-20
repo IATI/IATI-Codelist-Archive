@@ -1,0 +1,9 @@
+<codelist>
+    <label>Loan Repayemnt Period</label>
+    <description>CRS Loan Repayment No of Payments </description>
+    <name>LoanRepaymentPeriod</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.03</iati-version>
+    </version>
+</codelist>

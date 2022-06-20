@@ -1,0 +1,17 @@
+<codelist>
+    <label>Document Category</label>
+    <description>Categories of information included in published documents</description>
+    <name>DocumentCategory</name>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+    <version id="1.01">
+        <iati-version>1.02</iati-version>
+        <description> Added 4 new options to the codelist: A10 - Tender, A11 - Contract, B04 -
+                Aid Allocation Policy, B05 - Procurement Policy and Procedure </description>
+    </version>
+    <version id="1.02">
+        <iati-version>1.03</iati-version>
+        <description> Added 5 new options B6-B10 and changed the name of B02 </description>
+    </version>
+</codelist>

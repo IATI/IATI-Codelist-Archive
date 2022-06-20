@@ -1,0 +1,10 @@
+<result codelist="Vocabulary">
+    <rule id="standard-1.0:52">
+        <path>/policy-marker/@vocabulary</path>
+        <codelist>Vocabulary</codelist>
+    </rule>
+    <rule id="standard-1.0:69">
+        <path>/sector/@vocabulary</path>
+        <codelist>Vocabulary</codelist>
+    </rule>
+</result>

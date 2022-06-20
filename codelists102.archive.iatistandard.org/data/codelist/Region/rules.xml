@@ -1,0 +1,6 @@
+<result codelist="Region">
+    <rule id="standard-1.0:57">
+        <path>/recipient-region/@code</path>
+        <codelist>Region</codelist>
+    </rule>
+</result>

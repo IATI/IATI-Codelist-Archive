@@ -1,0 +1,28 @@
+<codelist>
+    <label>Organisation Identifier</label>
+    <name>OrganisationIdentifier</name>
+    <description>This list is composed of the three separate lists on the original IATI site.</description>
+    <source>
+        <authority>OECD</authority>
+        <link href="http://www.oecd.org/dac/stats/codelist30012013.xlsx" title="See Sheet 'Channel codes'"/>
+    </source>
+    <discussion>
+        <div> For ongoing work on Organisation identifiers see <ul>
+                <li>
+                    <a href="https://docs.google.com/spreadsheet/ccc?key=0AnWngmdQt3stdFppMWdkcXJqVTRWTk9menR1N0FXNGc#gid=0">Bill's spreadsheet of Organisation Registration Agencies</a>
+                </li>
+                <li>
+                    <a href="http://opencirce.org/orgs">Open Circe Organisation Identifier
+                            Hub</a>
+                </li>
+            </ul>
+        </div>
+    </discussion>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+    <version id="1.1">
+        <iati-version>1.0</iati-version>
+        <description>DAC Channel code parent category codes added</description>
+    </version>
+</codelist>

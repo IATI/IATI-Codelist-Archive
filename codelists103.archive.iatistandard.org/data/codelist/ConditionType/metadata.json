@@ -1,0 +1,1 @@
+{ "label" : "Condition Type", "description" : null, "name" : "ConditionType", "authority" : "IATI", "version" : [{ "id" : "1.0", "iati-version" : "1.0" }, { "id" : "1.01", "iati-version" : "1.03", "description" : "added 3  Fuiduciary" }] }

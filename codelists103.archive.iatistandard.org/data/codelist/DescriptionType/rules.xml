@@ -1,0 +1,10 @@
+<result codelist="DescriptionType">
+    <rule id="standard-1.0:27">
+        <path>/description/@type</path>
+        <codelist>DescriptionType</codelist>
+    </rule>
+    <rule id="standard-1.02:27">
+        <path>/description/@type</path>
+        <codelist>DescriptionType</codelist>
+    </rule>
+</result>

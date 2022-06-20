@@ -1,0 +1,7 @@
+<result codelist="BudgetType">
+    <rule id="standard-1.0:14a">
+        <path>/budget/@type</path>
+        <codelist>BudgetType</codelist>
+        <description/>
+    </rule>
+</result>

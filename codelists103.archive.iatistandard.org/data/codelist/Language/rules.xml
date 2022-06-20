@@ -1,0 +1,10 @@
+<result codelist="Language">
+    <rule id="standard-1.0:86">
+        <path>@xml:lang</path>
+        <codelist>Language</codelist>
+    </rule>
+    <rule id="standard-1.02:86">
+        <path>@xml:lang</path>
+        <codelist>Language</codelist>
+    </rule>
+</result>

@@ -1,0 +1,22 @@
+<result codelist="OrganisationIdentifier">
+    <rule id="standard-1.0:41">
+        <path>/other-identifier/@owner-ref</path>
+        <codelist>OrganisationIdentifier</codelist>
+    </rule>
+    <rule id="standard-1.0:42">
+        <path>/participating-org/@ref</path>
+        <codelist>OrganisationIdentifier</codelist>
+    </rule>
+    <rule id="standard-1.0:61">
+        <path>/reporting-org/@ref</path>
+        <codelist>OrganisationIdentifier</codelist>
+    </rule>
+    <rule id="standard-1.0:76">
+        <path>/transaction/provider-org/@ref</path>
+        <codelist>OrganisationIdentifier</codelist>
+    </rule>
+    <rule id="standard-1.0:77">
+        <path>/transaction/receiver-org/@ref</path>
+        <codelist>OrganisationIdentifier</codelist>
+    </rule>
+</result>

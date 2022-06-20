@@ -1,0 +1,1 @@
+{ "name" : "ActivityDateType", "label" : "Activity Date Type", "description" : "Types of date for activities", "authority" : "IATI", "adherence" : "full", "version" : { "id" : "1.0", "iati-version" : "1.0" } }

@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AidInfo IATI Data viewer - V2 dev</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt;
+              <a href="/data/codelist">Codelists</a> &gt;
+              <span>ActivityDateType</span> |
+              <a href="/data/codelist/ActivityDateType/metadata">Metadata</a> |
+              <a href="/data/codelist/ActivityDateType/version/1.0/lang/fr.xml">xml</a>  |
+              <a href="/data/codelist/ActivityDateType/version/1.0/lang/fr.csv">csv</a>
+            </div>
+            <div>
+                <h3>ActivityDateType 1.0 fr</h3>
+                <table border="1" class="sortable">
+                    <thead>
+                        <tr>
+                            <th>code</th>
+                            <th>name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>end-actual</td>
+                            <td>fin-réelle</td>
+                        </tr>
+                        <tr>
+                            <td>end-planned</td>
+                            <td>fin-prévue</td>
+                        </tr>
+                        <tr>
+                            <td>start-actual</td>
+                            <td>début-réel</td>
+                        </tr>
+                        <tr>
+                            <td>start-planned</td>
+                            <td>début-prévu</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

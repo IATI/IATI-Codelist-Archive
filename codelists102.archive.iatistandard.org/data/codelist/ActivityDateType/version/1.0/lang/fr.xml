@@ -1,0 +1,18 @@
+<codelist name="ActivityDateType" date-last-modified="2012-10-04T12:12:51Z" version="1.0" xml:lang="fr">
+    <ActivityDateType>
+        <code>end-actual</code>
+        <name>fin-réelle</name>
+    </ActivityDateType>
+    <ActivityDateType>
+        <code>end-planned</code>
+        <name>fin-prévue</name>
+    </ActivityDateType>
+    <ActivityDateType>
+        <code>start-actual</code>
+        <name>début-réel</name>
+    </ActivityDateType>
+    <ActivityDateType>
+        <code>start-planned</code>
+        <name>début-prévu</name>
+    </ActivityDateType>
+</codelist>

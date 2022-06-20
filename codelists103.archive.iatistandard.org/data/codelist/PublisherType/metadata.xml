@@ -1,0 +1,8 @@
+<codelist>
+    <label>Publisher Type</label>
+    <description/>
+    <name>PublisherType</name>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>

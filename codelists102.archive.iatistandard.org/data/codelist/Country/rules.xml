@@ -1,0 +1,10 @@
+<result codelist="Country">
+    <rule id="standard-1.0:34">
+        <path>/location/administrative/@country</path>
+        <codelist>Country</codelist>
+    </rule>
+    <rule id="standard-1.0:54">
+        <path>/recipient-country/@code</path>
+        <codelist>Country</codelist>
+    </rule>
+</result>

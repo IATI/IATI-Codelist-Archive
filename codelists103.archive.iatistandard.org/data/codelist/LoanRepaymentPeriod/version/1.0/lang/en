@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt;
+              <a href="/data/codelist">Codelists</a> &gt;
+              <span>LoanRepaymentPeriod</span> |
+              <a href="/data/codelist/LoanRepaymentPeriod/metadata">Metadata</a> |
+              <a href="/data/codelist/LoanRepaymentPeriod/version/1.0/lang/en.xml">xml</a>  |
+              <a href="/data/codelist/LoanRepaymentPeriod/version/1.0/lang/en.json">json</a>  |
+              <a href="/data/codelist/LoanRepaymentPeriod/version/1.0/lang/en.csv">csv</a>
+            </div>
+            <div>
+                <h3>LoanRepaymentPeriod 1.0 en</h3>
+                <table border="1" class="sortable">
+                    <thead>
+                        <tr>
+                            <th>code</th>
+                            <th>name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Annual</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Semi-annual</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>Quarterly</td>
+                        </tr>
+                        <tr>
+                            <td>12</td>
+                            <td>Monthly</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

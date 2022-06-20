@@ -1,0 +1,8 @@
+<codelist>
+    <label>Gazetteer Agency</label>
+    <description>An online resource that holds coordinates and descriptions of geographic locations </description>
+    <name>GazetteerAgency</name>
+    <version id="1.01">
+        <description>Added Open Street Map</description>
+    </version>
+</codelist>

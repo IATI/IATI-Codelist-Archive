@@ -1,0 +1,10 @@
+<result codelist="LocationType">
+    <rule id="standard-1.0:40">
+        <path>/location/location-type/@code</path>
+        <codelist>LocationType</codelist>
+    </rule>
+    <rule id="standard-1.02:40">
+        <path>/location/location-type/@code</path>
+        <codelist>LocationType</codelist>
+    </rule>
+</result>

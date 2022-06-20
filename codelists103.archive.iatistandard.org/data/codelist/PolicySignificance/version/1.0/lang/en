@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt;
+              <a href="/data/codelist">Codelists</a> &gt;
+              <span>PolicySignificance</span> |
+              <a href="/data/codelist/PolicySignificance/metadata">Metadata</a> |
+              <a href="/data/codelist/PolicySignificance/version/1.0/lang/en.xml">xml</a>  |
+              <a href="/data/codelist/PolicySignificance/version/1.0/lang/en.json">json</a>  |
+              <a href="/data/codelist/PolicySignificance/version/1.0/lang/en.csv">csv</a>
+            </div>
+            <div>
+                <h3>PolicySignificance 1.0 en</h3>
+                <table border="1" class="sortable">
+                    <thead>
+                        <tr>
+                            <th>code</th>
+                            <th>name</th>
+                            <th>description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>0</td>
+                            <td>not targeted</td>
+                            <td>The score "not targeted" means that the activity was examined but found not to target the policy objective.</td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>significant objective</td>
+                            <td>Significant (secondary) policy objectives are those which, although important, were not the prime motivation for undertaking the activity.</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>principal objective</td>
+                            <td>Principal (primary) policy objectives are those which can be identified as being fundamental in the design and impact of the activity and which are an explicit objective of the activity. They may be selected by answering the question "Would the activity have been undertaken without this objective?"</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>principal objective AND in support of an action programme</td>
+                            <td>For desertification-related aid only</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

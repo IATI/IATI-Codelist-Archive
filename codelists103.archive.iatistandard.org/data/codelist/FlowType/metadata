@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AIDVIEW-DB - V3</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/FlowType">FlowType</a> &gt; <span>metadata</span><a href="/data/codelist/FlowType/metadata.xml">xml</a> |
+              <a href="/data/codelist/FlowType/metadata.json">json</a> |
+              <a href="/data/codelist/FlowType/rules">Rules</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th>Name</th>
+                        <td>FlowType</td>
+                    </tr>
+                    <tr>
+                        <th>Label</th>
+                        <td>Flow Type</td>
+                    </tr>
+                    <tr>
+                        <th>Description</th>
+                        <td>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</td>
+                    </tr>
+                    <tr>
+                        <th>Source</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Authority</th>
+                                    <td>DAC</td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org">OECD web site</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org/dac/stats/dacandcrscodelists.htm">Overview</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Link</th>
+                                    <td><a class="external" href="http://www.oecd.org/dac/stats/codelist30012013.xlsx">See Sheet 'Type of Flow'</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Discussion</th>
+                        <td>
+            see <a href="http://support.iatistandard.org/entries/22900861-Additional-entry-on-Flow-Type-Codelist">Knowledge base discussion</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Versions</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Version</th>
+                                    <th>IATI Version</th>
+                                    <th>Date</th>
+                                    <th>Lang</th>
+                                    <th>Status</th>
+                                    <th>Description</th>
+                                </tr>
+                                <tr>
+                                    <th>1.0</th>
+                                    <th>1.0</th>
+                                    <td>02 Mar 2012</td>
+                                    <td><a href="/data/codelist/FlowType/version/1.0/lang/en">en</a>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <th>1.01</th>
+                                    <th>1.03</th>
+                                    <td>20 Mar 2013</td>
+                                    <td><a href="/data/codelist/FlowType/version/1.01/lang/en">en</a>
+                                    </td>
+                                    <td>Current</td>
+                                    <td>added code 40 - Non flow eg GNI </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

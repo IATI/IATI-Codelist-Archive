@@ -1,0 +1,9 @@
+<codelist>
+    <label>Loan Repayment Type</label>
+    <description>used in additional CRS elements</description>
+    <name>LoanRepaymentType</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.03</iati-version>
+    </version>
+</codelist>

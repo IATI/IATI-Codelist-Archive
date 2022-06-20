@@ -1,0 +1,21 @@
+<codelist>
+    <label>Collaboration Type</label>
+    <description>DAC/CRS classification used to determine the character of resource flows (bilateral or multilateral).</description>
+    <name>CollaborationType</name>
+    <source>
+        <authority>DAC</authority>
+        <version-date>2013-01-30</version-date>
+        <link href="http://www.oecd.org" title="OECD web site"/>
+        <link href="http://www.oecd.org/dac/stats/dacandcrscodelists.htm" title="Overview"/>
+        <link href="http://www.oecd.org/dac/stats/codelist30012013.xlsx" title="See Sheet 'Bi_Multi'"/>
+    </source>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+    <version id="1.01">
+        <iati-version>1.03</iati-version>
+        <description>added code 6 - Private sector outflows </description>
+    </version>
+    <discussion> See <a href="http://support.iatistandard.org/entries/21871373-Collaboration-Type-Code-List">Knowledge Base discussion</a>
+    </discussion>
+</codelist>

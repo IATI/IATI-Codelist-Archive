@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <script src="/jscript/sorttable.js" type="text/javascript" charset="utf-8"></script>
+        <link rel="stylesheet" type="text/css" href="/assets/screen.css" />
+        <title>AidInfo IATI Data viewer - V2 dev</title>
+    </head>
+    <body>
+        <div>
+            <div class="nav"><a href="/data/">Home</a> &gt; <a href="/data/codelist">codelist</a> &gt; <a href="/data/codelist/FlowType">FlowType</a> &gt; <span>metadata</span><a href="/data/codelist/FlowType/metadata.xml">xml</a> |
+              <a href="/data/codelist/FlowType/rules">Rules</a>
+            </div>
+            <div>
+                <table border="1">
+                    <tr>
+                        <th>Name</th>
+                        <td>FlowType</td>
+                    </tr>
+                    <tr>
+                        <th>Label</th>
+                        <td>Flow Type</td>
+                    </tr>
+                    <tr>
+                        <th>Description</th>
+                        <td>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</td>
+                    </tr>
+                    <tr>
+                        <th>IATI Version</th>
+                        <td>1</td>
+                    </tr>
+                    <tr>
+                        <th>Discussion</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>Versions</th>
+                        <td>
+                            <table>
+                                <tr>
+                                    <th>Version</th>
+                                    <th>Date</th>
+                                    <th>Lang</th>
+                                    <th>Status</th>
+                                    <th>Description</th>
+                                </tr>
+                                <tr>
+                                    <th>1.0</th>
+                                    <td>02 Mar 2012</td>
+                                    <td><a href="/data/codelist/FlowType/version/1.0/lang/en">en</a>
+                                    </td>
+                                    <td>Current</td>
+                                    <td></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

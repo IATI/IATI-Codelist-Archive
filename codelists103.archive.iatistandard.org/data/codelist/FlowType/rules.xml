@@ -1,0 +1,18 @@
+<result codelist="FlowType">
+    <rule id="standard-1.0:25">
+        <path>/default-flow-type/@code</path>
+        <codelist>FlowType</codelist>
+    </rule>
+    <rule id="standard-1.0:73">
+        <path>/transaction/flow-type/@code</path>
+        <codelist>FlowType</codelist>
+    </rule>
+    <rule id="standard-1.02:25">
+        <path>/default-flow-type/@code</path>
+        <codelist>FlowType</codelist>
+    </rule>
+    <rule id="standard-1.02:73">
+        <path>/transaction/flow-type/@code</path>
+        <codelist>FlowType</codelist>
+    </rule>
+</result>

@@ -1,0 +1,13 @@
+<codelist>
+    <label>Gazetteer Agency</label>
+    <description>An online resource that holds coordinates and descriptions of geographic locations </description>
+    <name>GazetteerAgency</name>
+    <authority>IATI</authority>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+    <version id="1.01">
+        <iati-version>1.02</iati-version>
+        <description>Added Open Street Map</description>
+    </version>
+</codelist>

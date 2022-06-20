@@ -1,0 +1,18 @@
+<result codelist="FinanceType">
+    <rule id="standard-1.0:24">
+        <path>/default-finance-type/@code</path>
+        <codelist>FinanceType</codelist>
+    </rule>
+    <rule id="standard-1.0:72">
+        <path>/transaction/finance-type/@code</path>
+        <codelist>FinanceType</codelist>
+    </rule>
+    <rule id="standard-1.02:24">
+        <path>/default-finance-type/@code</path>
+        <codelist>FinanceType</codelist>
+    </rule>
+    <rule id="standard-1.02:72">
+        <path>/transaction/finance-type/@code</path>
+        <codelist>FinanceType</codelist>
+    </rule>
+</result>

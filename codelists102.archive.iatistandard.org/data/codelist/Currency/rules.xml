@@ -1,0 +1,18 @@
+<result codelist="Currency">
+    <rule id="standard-1.0:5">
+        <path>/@default-currency</path>
+        <codelist>Currency</codelist>
+    </rule>
+    <rule id="standard-1.0:18">
+        <path>/budget/value/@currency</path>
+        <codelist>Currency</codelist>
+    </rule>
+    <rule id="standard-1.0:48">
+        <path>/planned-disbursement/value/@currency</path>
+        <codelist>Currency</codelist>
+    </rule>
+    <rule id="standard-1.0:82">
+        <path>/transaction/value/@currency</path>
+        <codelist>Currency</codelist>
+    </rule>
+</result>

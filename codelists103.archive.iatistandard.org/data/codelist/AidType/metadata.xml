@@ -1,0 +1,18 @@
+<codelist>
+    <name>AidType</name>
+    <label>AidType</label>
+    <description>DAC/CRS classification used to distinguish aid modalities. </description>
+    <source>
+        <authority>DAC</authority>
+        <version-date>2013-01-30</version-date>
+        <link href="http://www.oecd.org" title="OECD web site"/>
+        <link href="http://www.oecd.org/dac/stats/dacandcrscodelists.htm" title="Overview"/>
+        <link href="http://www.oecd.org/dac/stats/codelist30012013.xlsx" title="See Sheet 'Type of Aid'"/>
+    </source>
+    <adherence>full</adherence>
+    <discussion>In DAC parlance, Type is the high level category e.g. A "Budget Support" whilst
+            the lower level is Sub-type e.g. A01 "General Budget Support". </discussion>
+    <version id="1.0">
+        <iati-version>1.0</iati-version>
+    </version>
+</codelist>
